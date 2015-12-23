@@ -1,5 +1,5 @@
 # ParamountInvestmentGame
-
+   - 본프로젝트는 수원대학교 컴퓨터학과 소프트웨어 공학 수업에서 문승진 교수님 지휘 하에 진행 됐다.
    - InvestmentGame Final Report
 프로젝트를 구현함에 앞서 Software Engineering에 해당하는 리포트 작성에 집중해야 했다. 
 본 프로젝트에 첨부된 InvestmentGame Final Report가 이에 해당한다. 
