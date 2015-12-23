@@ -10,7 +10,7 @@ Report를 간략하게 소개하자면 이러하다.
    ex) Interface(UC-1, UC-2, ...), Domain Model(UC-1, UC-2, ...), ...
 
    - 프로젝트 구성
-본 프로젝트는 기본적으로 다음과 같이 구성 돼었다. 
+본 프로젝트는 기본적으로 다음과 같이 구성 되었다. 
 1. Front-End : Android
 2. Back-End : PHP 
 
