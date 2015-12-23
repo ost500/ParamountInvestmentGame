@@ -2,9 +2,9 @@
 - 본프로젝트는 수원대학교 컴퓨터학과 소프트웨어 공학 수업에서 문승진 교수님 지휘 하에 진행 됐다.
 - InvestmentGame Final Report
 - 
-프로젝트를 구현함에 앞서 Software Engineering에 해당하는 리포트 작성에 집중해야 했다. 
-본 프로젝트에 첨부된 InvestmentGame Final Report가 이에 해당한다. 
-Report를 간략하게 소개하자면 이러하다. 
+	프로젝트를 구현함에 앞서 Software Engineering에 해당하는 리포트 작성에 집중해야 했다. 
+	본 프로젝트에 첨부된 InvestmentGame Final Report가 이에 해당한다. 
+	Report를 간략하게 소개하자면 이러하다. 
 	1. 스토리(ST) - User가 본 서비스를 이용하기 위한 스토리(ST)를 기반으로 만든다. 
 	2. 유즈 케이스(UC) - 스토리(ST)로부터 유즈 케이스(UC)를 파생한다. 
 	3. 위로부터 파생되는 내용 - 각 UC에 해당하는 내용을 서로 다른 타이틀로 작성한다. 
