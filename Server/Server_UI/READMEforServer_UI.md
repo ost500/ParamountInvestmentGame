@@ -1,3 +1,3 @@
-서버에서 Android로 데이터를 전송하기 위한 PHP 파일들이다. 
-예로 GetCash.php(Server)는 안드로이드(UI)에서 찾고자 하는 사람의 아이디를 INPUT받고 그 사람이 가지고 있는 현금을 OUTPUT한다. 
-본 폴더에 다른 PHP파일들도 내용은 상동하다. 
+- 서버에서 Android로 데이터를 전송하기 위한 PHP 파일들이다. 
+- 예로 GetCash.php(Server)는 안드로이드(UI)에서 찾고자 하는 사람의 아이디를 INPUT받고 그 사람이 가지고 있는 현금을 OUTPUT한다. 
+- 본 폴더에 다른 PHP파일들도 내용은 상동하다. 
