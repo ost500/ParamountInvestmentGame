@@ -16,7 +16,8 @@
 	1. Front-End : Android
 	2. Back-End : PHP (APM 서버)
 		참고- Sublime text2를 에디터로 이용하고 완성된 코드는 FileZilla를 이용해 서버에 올렸다. 
-		      Sublime에서 컴파일을 시킬 수 없었기 때문에 Putty를 이용해 올라간 소스를 서버에서 컴파일 시키고 디버그했다.
+		      Sublime에서 컴파일을 시킬 수 없었기 때문에 Web에서 각 코드가 실행 되는지 확인하고
+		      에러가 났다면 Putty를 이용해 올라간 소스를 서버에서 컴파일 시키고 디버그했다.
 
 - 프로세스 고찰 
 - 
